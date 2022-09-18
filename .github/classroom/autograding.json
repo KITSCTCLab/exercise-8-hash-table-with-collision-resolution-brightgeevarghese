@@ -31,7 +31,7 @@
       "points": 3
     },
     {
-      "name": "Test Case 4",
+      "name": "Test Case 41",
       "setup": "",
       "run": "python3 Main.py",
       "input": "5\r\n[80, 'John'], [79, 'Shiney'], [101, 'Jincy'], [91, 'Sunitha'], [95, 'Binu'], [122, 'Betty'], [123, 'Yogi'], [94, 'Motu'], [96, 'Patlu'], [97, 'Nicky'], [98, 'Ricky'], [99, 'Aidan'].",
