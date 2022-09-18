@@ -8,6 +8,7 @@ def display_hash(hashtable) -> None:
 			print(j, end = " ")
 		print()
 
+		
 def Hashing(keyvalue) -> int:
 	return keyvalue % len(HashTable)
 
