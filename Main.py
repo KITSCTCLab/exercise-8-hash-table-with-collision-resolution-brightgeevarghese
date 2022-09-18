@@ -1,11 +1,14 @@
 import re
 
-def display_hash(hashtable) -> None:
-	for i in range(len(hashtable)):
+def display_hash(hashTable) -> None:
+	
+	for i in range(len(hashTable)):
 		print(i, end = " ")
-		for j in hashtable[i]:
+		
+		for j in hashTable[i]:
 			print("-->", end = " ")
 			print(j, end = " ")
+			
 		print()
 		
 def Hashing(keyvalue) -> int:
