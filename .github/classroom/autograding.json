@@ -35,7 +35,7 @@
       "setup": "",
       "run": "python3 Main.py",
       "input": "5\r\n[80, 'John'], [79, 'Shiney'], [101, 'Jincy'], [91, 'Sunitha'], [95, 'Binu'], [122, 'Betty'], [123, 'Yogi'], [94, 'Motu'], [96, 'Patlu'], [97, 'Nicky'], [98, 'Ricky'], [99, 'Aidan'].",
-      "output": "0 --> 'John' --> 'Binu'\r\n1 --> 'Jincy' --> 'Sunitha' --> 'Patlu'\r\n2 --> 'Betty' --> 'Nicky'\r\n3 --> 'Yogi' --> 'Ricky'\r\n4 --> 'Shiney' --> 'Motu' --> 'Aidan'",
+      "output": "0 --> 'John' --> 'Binu' \r\n1 --> 'Jincy' --> 'Sunitha' --> 'Patlu' \r\n2 --> 'Betty' --> 'Nicky' \r\n3 --> 'Yogi' --> 'Ricky' \r\n4 --> 'Shiney' --> 'Motu' --> 'Aidan'",
       "comparison": "exact",
       "timeout": 1,
       "points": 3
